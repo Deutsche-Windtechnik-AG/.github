@@ -1,5 +1,5 @@
 ## Deutsche Windtechnik AG - IT - Development
-![Four wind turbine maintenance workers, dressed in black protective gear with safety harnesses and helmets, walk towards a towering wind turbine in the background.](https://www.deutsche-windtechnik.com/fileadmin/_processed_/1/f/csm_Serviceteam-Senvion-Windenergieanlage-Deutsche-Windtechnik-Referenzen_597ac515a1.jpg)
+![Four wind turbine maintenance workers, dressed in black protective gear with safety harnesses and helmets, walk towards a towering wind turbine in the background.](image.webp)
 
 We specialize in developing office applications and automation solutions to support the maintenance and service of wind turbines. Our mission is to enhance efficiency, accuracy, and reliability in the renewable energy sector through smart digital tools.
 
